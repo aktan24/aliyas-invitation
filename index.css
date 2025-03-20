@@ -79,7 +79,7 @@ a, p, span, h1 {
 }
 .invitation-photos {
     width: 100%;
-    transform: translateY(-15px);
+    transform: translateY(-5px);
 }
 .invitation-planTitle {
     max-width: 350px;
@@ -118,7 +118,7 @@ a, p, span, h1 {
     margin-bottom: 48px;
 }
 .invitation__plan-block:nth-child(2) {
-    margin-bottom: 28px;
+    margin-bottom: 48px;
 }
 .invitation__plan-title {
     font-size: 16px;
